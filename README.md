@@ -1,3 +1,5 @@
+![Banner](https://link-to-your-banner-image.com/banner.png)
+
 # 👋 Merhaba, ben Rwonzco
 
 💻 Web ve oyun geliştiricisiyim. HTML, CSS, JavaScript ile modern projeler geliştiriyorum.  
