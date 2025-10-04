@@ -4,7 +4,6 @@
 💻 Web ve oyun geliştiricisiyim. HTML, CSS, JavaScript ile modern projeler geliştiriyorum.  
 🎮 Özellikle tarayıcı oyunları ve online oyun sistemleri üzerine çalışıyorum.  
 
-![Banner](WhatsApp Görsel 2025-10-04 saat 12.17.58_5c49a9d9.jpg)
 
 ---
 
