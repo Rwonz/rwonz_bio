@@ -1,4 +1,4 @@
-![RWONZco Banner](rwonzco-banner.png)
+![RWONZco Banner](banner.png)
 # 👋 Merhaba, ben Rwonzco
 
 💻 Web ve oyun geliştiricisiyim. HTML, CSS, JavaScript ile modern projeler geliştiriyorum.  
