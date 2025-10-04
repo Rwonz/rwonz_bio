@@ -25,7 +25,7 @@
 |-------|----------|-----------------|
 | 🎯 Modern Online Satranç | Tam kurallı, WebSocket destekli online satranç oyunu | [GitHub](https://github.com/rwonzco/online-chess) |
 | ninja mobil | HTML/JS ile geliştirilmiş, modern UI | [GitHub](https://github.com/Rwonz/mobil-ninja-oyunu) |
-| 🌍 Deprem Uyarı Sistemi | Tüm illeri kapsayan, geçmiş verileri görüntüleyen sistem | [GitHub](https://github.com/rwonzco/earthquake-alert) |
+| 🌍 movıe watch sıte | Arkadaslarınız beraber film odası acıp bırrlıkte fılm ızleme | [GitHub](https://github.com/Rwonz/movie-watch-site) |
 
 > Daha fazla proje için [GitHub profili](https://github.com/rwonzco) ziyaret edilebilir.
 
